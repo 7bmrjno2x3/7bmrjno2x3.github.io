@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "First blog post"
-date:       2019-07-03 03:45:46 +0000
+date:       2019-07-02 23:45:47 -0400
 permalink:  first_blog_post
 ---
 
